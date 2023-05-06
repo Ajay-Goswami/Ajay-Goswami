@@ -17,9 +17,6 @@
 ![Top Graph](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Top Graph](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## Activity Graph:
-[![Ajay's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ajay-Goswami&theme=react-dark)](https://github.com/18-RAJAT/github-readme-activity-graph)
-
 
 ## About:
   ![Top Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajay-Goswami&theme=vue)
