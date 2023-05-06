@@ -1,7 +1,7 @@
 ### Hi there Ajay Goswami👋
 
 - 🔭 I’m currently working on Web-D
-- 🌱 I’m currently learning React-JS
+- 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on Projects
 - 💬 Ask me about Web-D
 - 📫 How to reach me: goswamiajay2002@gmail.com
